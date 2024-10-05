@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Docker files
+*.pyc
+*.log
+*.sqlite3
+*.env
+docker-compose.override.yml
+
+# Data files
+data/*.csv
+
+# Test outputs
+coverage/
+test-results/
+
+# System files
+.DS_Store
+
+# Other files
+.idea/
+.vscode/
