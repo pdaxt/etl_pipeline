@@ -23,5 +23,5 @@ This project implements an ETL pipeline using Python, MongoDB, and Docker Compos
 ### **1. Clone the Repository**
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/pdaxt/etl_pipeline.git
 cd etl_pipeline
